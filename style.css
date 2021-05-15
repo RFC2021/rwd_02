@@ -1,0 +1,63 @@
+*{font-family: Brush Script MT, Brush Script Std, cursive;
+
+} 
+.box{
+    position:justify;
+    font-size: 20pt;
+    border: 2px solid;
+    background: white;
+    width: 500px 500px;
+    padding: 40px 40px;
+    margin: 15px; 
+    line-height: 25px;
+}
+main{
+    background: rgba(238, 241, 236, 0.918);
+    padding: 50px 40px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.data{
+    display: right;
+    justify-content: right;
+    font-size: 20pt;
+    margin-bottom: 50px;
+}
+
+.saudação{
+    text-align: left;
+    font-size: 20pt;
+    margin-left: 10px;
+}
+.assinatura{
+    text-align: left;
+    font-size: 20pt;
+    margin-left: 10px;
+}
+.expressão{
+    text-align: left;
+    font-size: 20pt;
+    margin-left: 10px;
+}
+{
+    margin: 10;
+    padding: 10;
+
+}
+
+    img {
+        width: 100px;
+        border: 3px solid rgb(55, 25, 124);
+        border-radius: 100px;   
+}
+
+div{
+    margin: 20px;
+}
+div{
+    margin: 20px;
+}
